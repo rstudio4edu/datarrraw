@@ -7,8 +7,8 @@
 #' \describe{
 #'   \item{observation}{which point}
 #'   \item{set}{one, two, three, or four as roman numerals}
-#'   \item{x1}{the x's}
-#'   \item{y1}{the y's}
+#'   \item{x}{the x's}
+#'   \item{y}{the y's}
 #' }
 #' @source \url{https://stat.ethz.ch/R-manual/R-devel/RHOME/library/datasets/html/anscombe.html}
 "anscombe_tidy"
