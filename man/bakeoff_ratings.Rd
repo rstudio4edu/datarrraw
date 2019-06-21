@@ -16,6 +16,9 @@
 \usage{
 bakeoff_ratings
 }
+\value{
+a [tibble][tibble::tibble-package]
+}
 \description{
 Data scraped from Wikipedia
 }

@@ -16,6 +16,9 @@
 \usage{
 anscombe_set1
 }
+\value{
+a [tibble][tibble::tibble-package]
+}
 \description{
 From the datasets package
 }
