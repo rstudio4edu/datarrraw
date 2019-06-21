@@ -1,13 +1,12 @@
-#' Prices of 50,000 round cut diamonds.
+#' Ratings for "The Great British Bake-Off"
 #'
-#' A dataset containing the prices and other attributes of almost 54,000
-#' diamonds.
+#' Data scraped from Wikipedia
 #'
-#' @format A data frame with 53940 rows and 10 variables:
+#' @format A data frame with 74 rows and 10 variables:
 #' \describe{
-#'   \item{price}{price, in US dollars}
-#'   \item{carat}{weight of the diamond, in carats}
+#'   \item{series}{an integer denoting UK series (1-8)}
+#'   \item{episode}{an integer denoting episode number within a series}
 #'   ...
 #' }
-#' @source \url{http://www.diamondse.info/}
-"diamonds"
+#' @source \url{https://github.com/apreshill/bakeoff}
+"bakeoff_ratings"
