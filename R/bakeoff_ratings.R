@@ -2,6 +2,7 @@
 #'
 #' Data scraped from Wikipedia
 #'
+#' @return a [tibble][tibble::tibble-package]
 #' @format A data frame with 74 rows and 10 variables:
 #' \describe{
 #'   \item{series}{an integer denoting UK series (1-8)}

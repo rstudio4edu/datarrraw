@@ -2,6 +2,7 @@
 #'
 #' From the datasets package
 #'
+#' @return a [tibble][tibble::tibble-package]
 #' @format A data frame with 11 rows and 2 variables:
 #' \describe{
 #'   \item{x1}{the x's}
