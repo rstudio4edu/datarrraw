@@ -1,12 +1,12 @@
 Package: datarrraw
-Title: What the Package Does (One Line, Title Case)
+Title: Making a Package with Data Inside
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Desirée",
+           family = "De Leon",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           email = "desiree@rstudio.com",
+           comment = c(ORCID = "https://orcid.org/0000-0003-2217-9067"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
